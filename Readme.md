@@ -1,4 +1,4 @@
-# Файл Readme ветки Master
+# Файл Readme
 
 Данный репозиторий был создан в рамках [профессии C#-разработчик] (https://skillfactory.ru/c-sharp-razrabotchik)
 
